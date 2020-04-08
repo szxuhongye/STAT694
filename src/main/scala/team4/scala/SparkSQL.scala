@@ -14,7 +14,7 @@ object SparkSQL {
     return person
   }
 
-  /** Our main function where the action happens */
+  /** Our main function */
   def main(args: Array[String]) {
 
     // Set the log level to only print errors

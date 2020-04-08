@@ -14,7 +14,7 @@ object DataFrame {
     return person
   }
 
-  /** Our main function where the action happens */
+  /** Our main function*/
   def main(args: Array[String]) {
 
     // Set the log level to only print errors
@@ -23,7 +23,7 @@ object DataFrame {
     // Use new SparkSession interface in Spark 2.0
     val spark = SparkSession
       .builder
-      .appName("SparkSQL")
+      .appName("DataFrame")
       .master("local[*]")
       .getOrCreate()
 
