@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f43f73c-c612-48bd-a1f4-fa822a6fb90f" name="Default Changelist" comment="">
+    <list default="true" id="1f43f73c-c612-48bd-a1f4-fa822a6fb90f" name="Default Changelist" comment="april 7th final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/team4/scala/Scala1.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/team4/scala/Scala1.sc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/scala-2.11/classes/team4/scala/DataFrame$.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/scala-2.11/classes/team4/scala/DataFrame$.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +143,7 @@
     </option>
     <option name="modificationStamps">
       <map>
+        <entry key="$PROJECT_DIR$" value="3172450912633" />
         <entry key="$PROJECT_DIR$/build.sbt" value="1211402113" />
         <entry key="$PROJECT_DIR$/project/build.properties" value="1026143456" />
       </map>
@@ -162,7 +165,8 @@
       <option name="presentableId" value="Default" />
       <updated>1586137155683</updated>
       <workItem from="1586137160821" duration="2736000" />
-      <workItem from="1586307999830" duration="6185000" />
+      <workItem from="1586307999830" duration="6654000" />
+      <workItem from="1586372884720" duration="4530000" />
     </task>
     <task id="LOCAL-00001" summary="add tables join">
       <created>1586309075736</created>
@@ -185,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586316421444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="april 7th final">
+      <created>1586317240361</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586317240361</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,34 +217,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="334" y="146" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1586139455398" />
-    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1586316420780">
+    <state x="303" y="52" key="CommitChangelistDialog2" timestamp="1586317328639">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586316420780" />
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1586317151060">
+    <state x="303" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1586317328639" />
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom" timestamp="1586394389229">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586317151059" />
-    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1586317151058">
+    <state width="1398" height="250" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586394389229" />
+    <state width="1398" height="250" key="GridCell.Tab.0.center" timestamp="1586394389228">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586317151058" />
-    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1586317151056">
+    <state width="1398" height="250" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586394389228" />
+    <state width="1398" height="250" key="GridCell.Tab.0.left" timestamp="1586394389227">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586317151056" />
-    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1586317151058">
+    <state width="1398" height="250" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586394389227" />
+    <state width="1398" height="250" key="GridCell.Tab.0.right" timestamp="1586394389229">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586317151058" />
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1586307998856">
+    <state width="1398" height="250" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586394389229" />
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1586372955655">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586307998856" />
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586316402474">
+    <state x="397" y="282" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1586372955655" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586317317117">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1586316402474" />
+    <state x="503" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1586317317117" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1586309115187">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

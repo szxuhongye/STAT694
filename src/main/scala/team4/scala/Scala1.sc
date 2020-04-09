@@ -24,7 +24,7 @@ object Scala1 {
   // String printing tricks
   // Concatenating stuff with +:
   println("Here is a mess: " + numberOne + truth + letterA + pi + bigNumber)
-  //> Here is a mess: 1truea3.141592651234567890
+  //  //> Here is a mess: 1truea3.141592651234567890
 
   // printf style:
   println(f"Pi is about $piSinglePrecision%.3f")  //> Pi is about 3.142
